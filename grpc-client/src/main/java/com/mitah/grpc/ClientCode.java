@@ -23,8 +23,6 @@ public class ClientCode {
     }
 
     public static void main(String[] args) throws Exception {
-        int[] arr = new int[6];
-        arr.sort
         String firstName = "Hatim";
         String lastName = "Motorwala";
         String serverAddress = "localhost:50052";
